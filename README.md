@@ -28,7 +28,7 @@ Start MySQL, Redis, and Flask containers.
 ## 4. Verifications (Optional)
 1. Check MySQL Database:
    
-       mysql -h 127.0.0.1 -P 3307 -u root -p
+       docker exec -it simple-form-app_mysql_1 mysql -u root -pRoot@123
    
        USE form_app;
    
