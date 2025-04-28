@@ -1,5 +1,5 @@
 ## Simple Form App
------------------------------------------------------------------
+
 ## 1. Install Required Software
 
 Make sure the user has installed:
